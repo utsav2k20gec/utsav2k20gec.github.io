@@ -263,9 +263,12 @@ body{
 	margin-left:80px;
 }
 .info {
+	padding-left:5px;
+	text-align:left;
   background-color: white;
   border-left: 6px solid #2196F3;
   border-right: 6px solid #2196F3;
+  font-family:"Times New Roman", Times, serif;
 }
 /**CSS for Mobile view*********************************************************************/
 @media screen and (max-width: 700px) {
