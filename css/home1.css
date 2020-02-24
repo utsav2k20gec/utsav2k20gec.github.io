@@ -320,6 +320,7 @@ body{
 .panel{
 	width:90%; 
 	margin: auto;
+	padding:0px;
 	background: linear-gradient(to right,#0000ff,white,white,white,white,white,white,white,white,white,white,#0000ff);
 }
 .panel-heading{
