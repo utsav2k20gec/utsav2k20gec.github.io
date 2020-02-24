@@ -262,7 +262,10 @@ body{
 	text-align:left;
 	margin-left:80px;
 }
-
+.info {
+  background-color: #e7f3fe;
+  border-left: 6px solid #2196F3;
+}
 /**CSS for Mobile view*********************************************************************/
 @media screen and (max-width: 700px) {
 	.gec{
