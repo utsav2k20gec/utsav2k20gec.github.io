@@ -263,8 +263,9 @@ body{
 	margin-left:80px;
 }
 .info {
-  background-color: #e7f3fe;
+  background-color: white;
   border-left: 6px solid #2196F3;
+  border-right: 6px solid #2196F3;
 }
 /**CSS for Mobile view*********************************************************************/
 @media screen and (max-width: 700px) {
