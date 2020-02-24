@@ -318,8 +318,9 @@ body{
 .panel-heading{
 	background: linear-gradient(to right,#0000ff,white,white,white,white,white,white,white,white,white,white,#0000ff);
 	}
-.panel-title{
+.panel-title a{
 	font-family:"Times New Roman", Times, serif;
+	font-size:12px;
 }
 .panel-body{
 	text-align:left;
