@@ -48,7 +48,9 @@ body{
 	   margin-top:-10px;
   }
   }
-  
+  .navbar-brand img:hover{
+	  opacity:0.5;
+  }
 /*navigation bar*/
  .my-navbar {
  
