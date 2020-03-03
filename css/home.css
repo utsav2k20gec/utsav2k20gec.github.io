@@ -289,7 +289,13 @@ body{
 	text-align:left;
 	margin-left:80px;
 }
-
+.download_text{
+	float:right;
+	color:#0000ff;
+	margin-right:7%;
+	background-color:white;
+	margin-bottom:0px;
+}
 /**CSS for Mobile view*********************************************************************/
 @media screen and (max-width: 700px) {
 	.gec{
@@ -363,5 +369,11 @@ body{
 	text-align:left;
 	margin-left:30px;
 }
-
+.download_text{
+	float:right;
+	color:#0000ff;
+	margin-right:2%;
+	background-color:white;
+	margin-bottom:0px;
+}
 }
