@@ -291,10 +291,11 @@ body{
 }
 .download_text{
 	float:right;
-	color:#0000ff;
+	color:green;
 	margin-right:7%;
 	background-color:white;
-	margin-bottom:0px;
+	margin-bottom:-50px;
+	font-family:"Times New Roman", Times, serif;
 }
 /**CSS for Mobile view*********************************************************************/
 @media screen and (max-width: 700px) {
@@ -371,9 +372,10 @@ body{
 }
 .download_text{
 	float:right;
-	color:#0000ff;
+	color:green;
 	margin-right:2%;
 	background-color:white;
 	margin-bottom:0px;
+	font-family:"Times New Roman", Times, serif;
 }
 }
