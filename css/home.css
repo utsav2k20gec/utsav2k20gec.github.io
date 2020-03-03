@@ -290,14 +290,13 @@ body{
 	margin-left:80px;
 }
 .download_text{
-	float:right;
-	color:green;
-	margin-right:7%;
+	text-align:right;
+	color:#0000ff;
 	background-color:white;
-	margin-bottom:-50px;
 	font-family:"Times New Roman", Times, serif;
 	padding-left:2px;
-	padding-right:2px;
+	padding-right:2%;
+    margin-bottom:0px;
 }
 /**CSS for Mobile view*********************************************************************/
 @media screen and (max-width: 700px) {
@@ -373,13 +372,12 @@ body{
 	margin-left:30px;
 }
 .download_text{
-	float:right;
-	color:green;
-	margin-right:2%;
-	background-color:white;
-	margin-bottom:0px;
+	text-align:right;
+	color:white;
+	background-color:gray;
 	font-family:"Times New Roman", Times, serif;
 	padding-left:2px;
-	padding-right:2px;
+	padding-right:2%;
+    margin-bottom:0px;
 }
 }
