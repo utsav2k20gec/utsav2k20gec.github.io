@@ -279,6 +279,8 @@ body{
 	background-color:white;
 	margin-bottom:0px;
 	font-family:"Times New Roman", Times, serif;
+	padding-left:2px;
+	padding-right:2px;
 }
 /**CSS for Mobile view*********************************************************************/
 @media screen and (max-width: 700px) {
@@ -350,5 +352,7 @@ body{
 	background-color:white;
 	margin-bottom:0px;
 	font-family:"Times New Roman", Times, serif;
+	padding-left:2px;
+	padding-right:2px;
 }
 }
