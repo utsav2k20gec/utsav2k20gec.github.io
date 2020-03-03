@@ -291,8 +291,8 @@ body{
 }
 .download_text{
 	text-align:right;
-	color:#0000ff;
-	background-color:white;
+	color:white;
+	background-color:gray;
 	font-family:"Times New Roman", Times, serif;
 	padding-left:2px;
 	padding-right:2%;

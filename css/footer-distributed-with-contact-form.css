@@ -11,13 +11,11 @@
 }
 
 /* Footer left */
-
 .footer-distributed .footer-left{
 	float: left;
 }
 
 /* Footer social icons */
-
 .footer-distributed .footer-icons{
 	margin-top: 0px;
 }
@@ -62,8 +60,8 @@
 
 @media (max-width: 800px) {
 	.footer-distributed {
-		font: bold 14px sans-serif;
-		margin-top: px;
+		font: 15px sans-serif;
+		padding: 0px 0px 0px;
 	}
 
 	.footer-distributed{
@@ -91,7 +89,7 @@
 
     .footer-distributed .footer-icons{
 	    margin-top: 0px;
-		margin-left:60px;
+		margin-left:0px;
     }
     .footer-distributed .footer-icons a:hover{
 	   color:green;
